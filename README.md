@@ -1,7 +1,5 @@
 ### Hi there mi name is Ivan Lomeli👋
 
-<!--
-**IvanG2002/IvanG2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ```javascript
 const aboutMe = {
@@ -25,6 +23,9 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+<!--
+**IvanG2002/IvanG2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
