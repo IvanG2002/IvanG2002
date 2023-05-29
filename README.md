@@ -24,4 +24,4 @@ const howToReachMe = {
 - 🔭 I’m currently working on HTML, CSS, Tailwind and React
 - 🌱 I’m currently learning node, express, mysql, mongodb and graphql
 - 😎 I'm a person how likes learn from others
-- 🎮 I enjoy programming and play video games in my free time
+- 🎮 I like to program and in my free time play video games
