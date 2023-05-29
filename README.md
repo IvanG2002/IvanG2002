@@ -21,5 +21,7 @@ const howToReachMe:{
    number: "+52 656 3102475"
 }
 ```
+## About me
 - 🔭 I’m currently working on HTML, CSS, Tailwind and REACT
 - 🌱 I’m currently learning node, express, mysql, mongodb and graphql
+- 
