@@ -16,7 +16,7 @@ const aboutMe = {
    },
    currentOccupation: ["Student at UACJ [6th Semester]"]
 };
-const howToReachMe:{
+const howToReachMe = {
    email:  "lomeli.gerardo@outlook.com",
    number: "+52 656 3102475"
 }
@@ -24,4 +24,3 @@ const howToReachMe:{
 ## About me
 - 🔭 I’m currently working on HTML, CSS, Tailwind and REACT
 - 🌱 I’m currently learning node, express, mysql, mongodb and graphql
-- 
