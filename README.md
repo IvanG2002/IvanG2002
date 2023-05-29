@@ -1,4 +1,4 @@
-### Hi, I'm Ivan Lomeli👋
+## Hi, I'm Ivan Lomeli👋
 
 ```javascript
 const aboutMe = {
