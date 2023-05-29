@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan Lomeli👋
 ```javascript
-const aboutMe = {
+const aboutMeCode = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, C, C++],
    technologies: {
