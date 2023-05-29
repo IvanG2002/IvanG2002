@@ -1,40 +1,25 @@
-### Hi there mi name is Ivan Lomeli👋
-
+### Hi, I'm Ivan Lomeli👋
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, C, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Nextjs"],
+         css: ["SASS", "Tailwindcss", "Bootstrap", "Chakra UI"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node", "Express"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "MySQL"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Student at UACJ [6th Semester]"]
 };
+const howToReachMe:{
+   email:  "lomeli.gerardo@outlook.com",
+   number: "+52 656 3102475"
+}
 ```
-
-<!--
-**IvanG2002/IvanG2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on HTML, CSS, Tailwind and REACT
+- 🌱 I’m currently learning node, express, mysql, mongodb and graphql
