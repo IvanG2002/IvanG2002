@@ -7,11 +7,7 @@ const aboutMeCode = {
       frontEnd: {
          js: ["React", "Nextjs"],
          css: ["SASS", "Tailwindcss", "Bootstrap", "Chakra UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MongoDB", "MySQL"]
+      }
    },
    currentOccupation: ["Student at UACJ [6th Semester], looking for opportunities"]
 };
