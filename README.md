@@ -13,15 +13,18 @@ const aboutMeCode = {
       },
       databases: ["MongoDB", "MySQL"]
    },
-   currentOccupation: ["Student at UACJ [6th Semester]"]
+   currentOccupation: ["Student at UACJ [6th Semester], looking for opportunities"]
 };
-const howToReachMe = {
-   email:  "lomeli.gerardo@outlook.com",
-   number: "+52 656 3102475"
-}
 ```
 ## About me🤯
 - 🔭 I’m currently working on HTML, CSS, Tailwind and React
 - 🌱 I’m currently learning node, express, mysql, mongodb and graphql
 - 😎 I'm a person how likes learn from others
 - 🎮 I like to program and in my free time play video games
+## Contact me🤖
+```javascript
+const howToReachMe = {
+   email:  "lomeli.gerardo@outlook.com",
+   number: "+52 (656) 3102475"
+}
+```
