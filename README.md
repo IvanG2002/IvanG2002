@@ -3,19 +3,18 @@
 ```javascript
 const aboutMeCode = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, C, C++],
+   code: [Javascript, Typescript, HTML, CSS, .NET],
    technologies: {
       frontEnd: {
-         js: ["React", "Nextjs"],
-         css: ["SASS", "Tailwindcss", "Bootstrap", "Chakra UI"]
+         js: ["React", "Nextjs", "Angular"],
+         css: ["SASS", "Tailwindcss"]
       }
    },
-   currentOccupation: ["Student at UACJ [6th Semester], looking for opportunities"]
+   currentOccupation: ["Student at UACJ [8th Semester], and Intern at Bosch"]
 };
 ```
 ## About me🤯
 - 🔭 I’m currently working on HTML, CSS, Tailwind, and React
-- 🌱 I’m currently learning node, express, mysql, mongodb, and graphql
 - 😎 I'm a person who likes learn from others
 - 🎮 I like to program and in my free time play video games
 ## Contact me🤖
