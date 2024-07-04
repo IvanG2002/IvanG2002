@@ -3,18 +3,16 @@
 ```javascript
 const aboutMeCode = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, .NET],
+   code: [Javascript, .NET],
    technologies: {
       frontEnd: {
-         js: ["React", "Nextjs", "Angular"],
-         css: ["SASS", "Tailwindcss"]
+         js: ["Angular"],
       }
-   },
-   currentOccupation: ["Student at UACJ [8th Semester], and Intern at Bosch"]
+   }
 };
 ```
 ## About me🤯
-- 🔭 I’m currently working on HTML, CSS, Tailwind, and React
+- 🔭 I’m currently working on .NET and Angular
 - 😎 I'm a person who likes learn from others
 - 🎮 I like to program and in my free time play video games
 ## Contact me🤖
