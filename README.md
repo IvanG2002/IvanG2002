@@ -3,10 +3,10 @@
 ```javascript
 const aboutMeCode = {
    pronouns: "he" | "him",
-   code: [Javascript, .NET],
+   code: [Javascript, Express.Js, Node.js, .NET],
    technologies: {
       frontEnd: {
-         js: ["Angular"],
+         js: ["React, Angular"],
       }
    }
 };
